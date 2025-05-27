@@ -56,7 +56,7 @@ Write a C program to read A values and check whether A is positive number or not
 6.	End the program.
 
 # PROGRAM:
-	
+```
 #include <stdio.h>
 int main()
 {
@@ -75,7 +75,7 @@ int main()
 
     return 0;
 }
-
+```
 
 
 # OUTPUT:
